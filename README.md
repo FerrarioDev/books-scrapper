@@ -46,7 +46,7 @@ python your_scraper_file.py
 
 ### Output:
 
-The scraped data will be saved in a CSV file named "books_data.csv" in the location specified by <YOUR_FEED_EXPORT_URI>.
+The scraped data will be saved in a CSV file named "books_data.csv" in the location specified.
 
 Additional Notes:
 
